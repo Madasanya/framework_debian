@@ -2,7 +2,7 @@
 
 Welcome to my Debian on Framework Documentation Repository!
 
-In short: as a Windows user for more than 20 years, this is my first attempt at setting up a Linux distro for private use. I decided on Debian, which I now want to get running on my Framework laptop.
+In short: as a Windows user for more than 20 years, this is my first attempt at setting up a Linux distro for private use. I decided on Debian, which I now want to get running on my Framework laptop. On top of that, I do everything without an ethernet expansion card, as these were sold out at the time of my order.
 
 In the [Wiki](https://github.com/Madasanya/framework_debian/wiki) you can find the most important information about this small project.
 
